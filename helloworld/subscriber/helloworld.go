@@ -5,7 +5,7 @@ import (
 
 	log "github.com/ebelanja/go-micro/logger"
 
-	helloworld "github.com/ebelanja/examples/helloworld/proto"
+	helloworld "github.com/ebelanja/micro-examples/helloworld/proto"
 )
 
 type Helloworld struct{}

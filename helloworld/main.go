@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/ebelanja/examples/helloworld/handler"
-	"github.com/ebelanja/examples/helloworld/subscriber"
 	"github.com/ebelanja/go-micro"
 	log "github.com/ebelanja/go-micro/logger"
+	"github.com/ebelanja/micro-examples/helloworld/handler"
+	"github.com/ebelanja/micro-examples/helloworld/subscriber"
 
-	helloworld "github.com/ebelanja/examples/helloworld/proto"
+	helloworld "github.com/ebelanja/micro-examples/helloworld/proto"
 )
 
 func main() {

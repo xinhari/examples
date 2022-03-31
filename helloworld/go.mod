@@ -1,4 +1,4 @@
-module github.com/ebelanja/examples/helloworld
+module github.com/ebelanja/micro-examples/helloworld
 
 go 1.13
 
